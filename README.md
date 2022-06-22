@@ -1,10 +1,10 @@
 <!-- Hi there! Feel free to make this your own but don't use my data. Attributions are welcomed --> 
 <h3>Hi! 👋<br>I'm Longx.He<br> Master of AI in Tsinghua SIGS</h3>
-<h6>I build <a href="https://stephenajulu.com/portfolio">websites</a>, write <a href="https://stephenajulu.com/blog">articles</a>, design <a href="https://stephenajulu.com/portfolio">graphics</a>, provide <a href="https://stephenajulu.com/book-a-consultation">advice</a> and sell <a href="https://stephenajulu.com/store">digital products</a>.<br>I have 8 years of tech experience, creating products, content and solutons while providing IT services.<br>Do you have a project or need a solution? Then ↴<br><a href="https://stephenajulu.com/contact">Contact me to get in touch now!</a></h6>
+<h6>My research interest is Reinforcement Learning,Aircraft etc.<br>A kitty loverr.<br>Do you want to contact me? Then ↴<br>Email:longxhe@gmail.com</h6>
 
-<h4> <a href="https://stephenajulu.com/links">Links</a> • <a href="https://stephenajulu.com">Website</a> • <a href="https://stephenajulu.com/blog">Blog</a> • <a href="https://stephenajulu.com/store">Store</a> • <a href="https://www.paypal.com/donate/?hosted_button_id=SLNMRAJ59LRC8">Donate</a> • <a href="https://stephenajulu.substack.com">Newsletter</a></h4>
+<h4> <a href="https://say-hello2y.github.io/">Website</a> • <a href="https://www.zhihu.com/people/love2you">Zhihu</a> • <a href="https://blog.csdn.net/SayHello2You?spm=1000.2115.3001.5343">Blog</a> </h4>
 
-<h4>📕 My Latest</h4>
+<h4>📕 My Project</h4>
 
 <!-- BLOG-POST-LIST:START -->
 - [The Best Investments To Own Before A Recession &lpar;UPDATED&rpar;](https://stephenajulu.com/blog/the-best-investments-to-own-before-a-recession/)

@@ -9,7 +9,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Multi Agent Control](https://github.com/Say-Hello2y/MultiAgentSystem)
-- [Tsinghau SIGS group meeting template](https://github.com/Say-Hello2y/Tsinghua-SIGS-Group-Meeting-Template)
+- [Tsinghua SIGS group meeting template](https://github.com/Say-Hello2y/Tsinghua-SIGS-Group-Meeting-Template)
 - [Reinforcement Learning Path Planning](https://github.com/Say-Hello2y/reforcementLearningPathplanner)
 - [Path Planning](https://github.com/Say-Hello2y/Path-planning-for-robots)
 <!-- BLOG-POST-LIST:END -->

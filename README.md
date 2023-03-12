@@ -1,7 +1,7 @@
 <!-- Hi there! Feel free to make this your own but don't use my data. Attributions are welcomed --> 
 <h2><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <h3>Hi! 👋<br>I'm Longx.He<br>Master of AI in Tsinghua SIGS</h3>
-<h6>My research interest is Reinforcement Learning,Aircraft etc.<br>A kitty lover.<br>Do you want to contact me? My Email ↴<br>longxhe@gmail.com</h6> 
+<h6>My research interest is Reinforcement Learning,Machine Learning etc.<br>A kitty lover.<br>Do you want to contact me? My Email ↴<br>longxhe@gmail.com</h6> 
 
 <h4> <a href="https://say-hello2y.github.io/">Website</a> • <a href="https://www.zhihu.com/people/love2you">Zhihu</a> • <a href="https://blog.csdn.net/SayHello2You?spm=1000.2115.3001.5343">Blog</a> </h4>
 

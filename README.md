@@ -1,10 +1,9 @@
 <!-- Hi there! Feel free to make this your own but don't use my data. Attributions are welcomed --> 
 <h2><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <h3>Hello, I'm Longx He. 👋</h3>
-<h6>I am a Master of Artificial Intelligence at Tsinghua SIGS, with a focus on Reinforcement Learning and generative modeling research. I am passionate about advancing the field of AI and am constantly exploring new ideas and techniques.<h6>
-<h6>In my spare time, I'm a proud cat enthusiast and enjoy spending time with my feline friends. 🐱
-<h6>
- If you'd like to discuss my research, potential collaborations, or simply chat about our shared interests, please feel free to reach out to me via email at longxhe@gmail.com. I look forward to connecting with you! 📧 </h6> 
+<h4>I am a Master of Artificial Intelligence at Tsinghua SIGS, with a focus on Reinforcement Learning and generative modeling research. I am passionate about advancing the field of AI and am constantly exploring new ideas and techniques.<h4>
+<h4>
+ If you'd like to discuss my research, potential collaborations, or simply chat about our shared interests, please feel free to reach out to me via email at longxhe@gmail.com. I look forward to connecting with you! 📧 </h4> 
 
 <h4> <a href="https://say-hello2y.github.io/">Website</a> • <a href="https://www.zhihu.com/people/love2you">Zhihu</a> • <a href="https://blog.csdn.net/SayHello2You?spm=1000.2115.3001.5343">Blog</a> </h4>
 

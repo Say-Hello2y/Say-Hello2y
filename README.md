@@ -1,6 +1,6 @@
 <!-- Hi there! Feel free to make this your own but don't use my data. Attributions are welcomed --> 
 <h2><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<h3>Hello, I'm Longx He. 👋</h3>
+<h3>Hello, I'm Longxiang He. 👋</h3>
 <h4>I am a Master of Artificial Intelligence at Tsinghua SIGS, with a focus on Reinforcement Learning and generative modeling research. I am passionate about advancing the field of AI and am constantly exploring new ideas and techniques.<h4>
 <h4>
  If you'd like to discuss my research, potential collaborations, or simply chat about our shared interests, please feel free to reach out to me via email at longxhe@gmail.com. I look forward to connecting with you! 📧 </h4> 
